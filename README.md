@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning
+🌱 I’m currently learning about AI Full Stack Development
 🔭 I’m doing DSA
 <!--
 **Sanaullah-01/Sanaullah-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
